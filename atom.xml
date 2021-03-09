@@ -3,11 +3,11 @@
   <title>Yblog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zhangyisui.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zhangyisui.top/"/>
   <updated>2021-03-09T03:10:22.807Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zhangyisui.top/</id>
   
   <author>
     <name>zhangyisui</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2021/03/09/test/"/>
-    <id>http://example.com/2021/03/09/test/</id>
+    <link href="https://zhangyisui.top/2021/03/09/test/"/>
+    <id>https://zhangyisui.top/2021/03/09/test/</id>
     <published>2021-03-09T03:08:57.000Z</published>
     <updated>2021-03-09T03:10:22.807Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/03/08/hello-world/"/>
-    <id>http://example.com/2021/03/08/hello-world/</id>
+    <link href="https://zhangyisui.top/2021/03/08/hello-world/"/>
+    <id>https://zhangyisui.top/2021/03/08/hello-world/</id>
     <published>2021-03-08T00:50:20.194Z</published>
     <updated>2021-03-08T00:50:20.194Z</updated>
     
