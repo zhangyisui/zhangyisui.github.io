@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yblog</title>
+  <title>一随の博客</title>
   
-  
+  <subtitle>永远拥有诗意</subtitle>
   <link href="https://zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://zhangyisui.top/"/>
