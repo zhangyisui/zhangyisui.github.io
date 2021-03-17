@@ -6,7 +6,7 @@
   <link href="https://zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://zhangyisui.top/"/>
-  <updated>2021-03-17T02:44:15.087Z</updated>
+  <updated>2021-03-17T02:45:54.205Z</updated>
   <id>https://zhangyisui.top/</id>
   
   <author>
@@ -21,15 +21,12 @@
     <link href="https://zhangyisui.top/posts/22179bc6/"/>
     <id>https://zhangyisui.top/posts/22179bc6/</id>
     <published>2021-03-17T02:27:56.000Z</published>
-    <updated>2021-03-17T02:44:15.087Z</updated>
+    <updated>2021-03-17T02:45:54.205Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="如何跳过青年大学习】"><a href="#如何跳过青年大学习】" class="headerlink" title="如何跳过青年大学习】"></a>如何跳过青年大学习】</h3><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 debugmm.qq.com/?forcex5=true 开启vConsole调试功能<br>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）  </p><h2 id="Second-step"><a href="#Second-step" class="headerlink" title="Second step"></a>Second step</h2><p>打开大学习视频，右下角会多出一个vConsole的绿色图标。点击开始学习之后，点击打开vConsole输入代码，点击ok即可<br>（可能需要粘贴两次代码，一次跳视频做题，一次跳视频）<br>（vConsole在微信中浏览其他网页时也会存在，如果介意，回到打开页面关闭即可）  </p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Bvideo.currentTime=800;</span><br><span class="line">Cvideo.currentTime=800;</span><br><span class="line">video.ended=1;</span><br></pre></td></tr></table></figure><hr><p>ps: 用了代码之后依然要答题<br>pps: 经测试，课后答题答不答无所谓，直接下一题就会显示答案且结果不会上传<br>ppps: 2021.3.17依然有效  </p>]]></content>
+    <content type="html"><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 debugmm.qq.com/?forcex5=true 开启vConsole调试功能  <span id="more"></span><br>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）  </p><h2 id="Second-step"><a href="#Second-step" class="headerlink" title="Second step"></a>Second step</h2><p>打开大学习视频，右下角会多出一个vConsole的绿色图标。点击开始学习之后，点击打开vConsole输入代码，点击ok即可<br>（可能需要粘贴两次代码，一次跳视频做题，一次跳视频）<br>（vConsole在微信中浏览其他网页时也会存在，如果介意，回到打开页面关闭即可）  </p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Bvideo.currentTime=800;</span><br><span class="line">Cvideo.currentTime=800;</span><br><span class="line">video.ended=1;</span><br></pre></td></tr></table></figure><hr><p>ps: 用了代码之后依然要答题<br>pps: 经测试，课后答题答不答无所谓，直接下一题就会显示答案且结果不会上传<br>ppps: 2021.3.17依然有效  </p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h3 id=&quot;如何跳过青年大学习】&quot;&gt;&lt;a href=&quot;#如何跳过青年大学习】&quot; class=&quot;headerlink&quot; title=&quot;如何跳过青年大学习】&quot;&gt;&lt;/a&gt;如何跳过青年大学习】&lt;/h3&gt;&lt;h2 id=&quot;First-step&quot;&gt;&lt;a href=&quot;#First-step&quot;</summary>
-      
+    <summary type="html">&lt;h3 id=&quot;如何跳过青年大学习&quot;&gt;&lt;a href=&quot;#如何跳过青年大学习&quot; class=&quot;headerlink&quot; title=&quot;如何跳过青年大学习&quot;&gt;&lt;/a&gt;如何跳过青年大学习&lt;/h3&gt;&lt;h2 id=&quot;First-step&quot;&gt;&lt;a href=&quot;#First-step&quot; class=&quot;headerlink&quot; title=&quot;First step&quot;&gt;&lt;/a&gt;First step&lt;/h2&gt;&lt;p&gt;在微信上打开链接：&lt;a href=&quot;http://debugtbs.qq.com/&quot;&gt;http://debugtbs.qq.com&lt;/a&gt; 和 debugmm.qq.com/?forcex5=true 开启vConsole调试功能</summary>
     
     
     
