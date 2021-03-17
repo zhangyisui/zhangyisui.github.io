@@ -5,6 +5,10 @@
     <url>/posts/d87f7e0c/</url>
     <content><![CDATA[<h2 id="It-just-a-test-for-the-first-run"><a href="#It-just-a-test-for-the-first-run" class="headerlink" title="It just a test for the first run"></a>It just a test for the first run</h2><span id="more"></span>
 
+<p><a href="https://zhangyisui.top/">测试链接</a></p>
+<p><img src="https://ae01.alicdn.com/kf/Udcdc3a875f984075a89e53abef0b1707c.jpg" alt="测试图片"></p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line">测试代码;</span><br></pre></td></tr></table></figure>
+
 <p>No more for read<br>over test</p>
 ]]></content>
       <categories>
@@ -60,7 +64,8 @@
   <entry>
     <title>如何跳过青年大学习</title>
     <url>/posts/22179bc6/</url>
-    <content><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 debugmm.qq.com/?forcex5=true 开启vConsole调试功能  <span id="more"></span><br>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）  </p>
+    <content><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 <a href="http://debugmm.qq.com/?forcex5=true">debugmm.qq.com/?forcex5=true</a> 开启vConsole调试功能<span id="more"></span>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）<br>图↓</p>
+<p><img src="https://ae01.alicdn.com/kf/U4d57217d6e314107be734a2c001203cfs.jpg" alt="演示图"><br><img src="https://ae01.alicdn.com/kf/Ub9b75d845e2c445c9d12c8eb939975a2R.jpg" alt="演示图"></p>
 <h2 id="Second-step"><a href="#Second-step" class="headerlink" title="Second step"></a>Second step</h2><p>打开大学习视频，右下角会多出一个vConsole的绿色图标。点击开始学习之后，点击打开vConsole输入代码，点击ok即可<br>（可能需要粘贴两次代码，一次跳视频做题，一次跳视频）<br>（vConsole在微信中浏览其他网页时也会存在，如果介意，回到打开页面关闭即可）  </p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line">Bvideo.currentTime=800;</span><br><span class="line">Cvideo.currentTime=800;</span><br><span class="line">video.ended=1;</span><br></pre></td></tr></table></figure>
 
