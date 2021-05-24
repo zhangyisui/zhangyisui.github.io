@@ -42,29 +42,6 @@
   </entry>
   
   <entry>
-    <title>如何简单的观察一首歌</title>
-    <link href="https://zhangyisui.top/posts/9137edae/"/>
-    <id>https://zhangyisui.top/posts/9137edae/</id>
-    <published>2021-03-28T12:46:41.000Z</published>
-    <updated>2021-03-29T14:40:13.447Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="因"><a href="#因" class="headerlink" title="因"></a>因</h3><p>以前下载音乐的时候总会有各种音质选项，不同音质选项之间体积差距很大。<br>像我这种怀旧的人又舍不得删掉以前听的歌，所以各种以前的歌就总是一直留在电脑里。<br>印象中一般下载时我都会选择<span id="more"></span>高品，但有些会员歌曲在下载时又没的选择，几年下来，硬盘里的的歌加起来也有了100多首<br>占了一个G多一点<br>晚上用我的foobar2000听歌的时候看见底下的785kbps和44100hz突然对音乐的音质来了兴趣<br>于是查了查资料，说实话资料比较散乱，所以整理一下，发烧友应该并不需要这篇文章，所以可以说是为我自己还有其他小白整理的<br>如有纰漏，还望指正  </p><h2 id="格式"><a href="#格式" class="headerlink" title="格式"></a>格式</h2><p>这个是最简单的，多数人应该都有所了解，如果连这个都不了解的话那就是真的小白了<br>最常见的MP3（MPEG-1音频层3）相信不用介绍了，不过实际上即使同样是MP3在不同的采样率下也拥有不同的效果<br>一般情况下普通品质和高品都是这种格式，这也是目前最常见的音乐格式<br>而无损音乐的格式有很多种，常见的包括flac、ape、wav还有苹果的alac（2011年11月2日在Apache v2.0许可证下开源）<br>实际上所有无损音乐都是wav的压缩，播放时会转为wav，直接播放wav有助于节约内存，亦更流畅。但缺点是文件过大，一般在30兆以上<br>一般情况下我们把它压缩为MP3或 WMA 格式。压缩方法有无损压缩与有损压缩，上面已经介绍过常见的无损，而其它格式就是有损压缩<br>顾名思义就是有损失的压缩，会损失一部分音频信息，但损失的大多是无伤大雅的部分，实际上多数人察觉不到<br>MP3就是有损压缩</p><hr><p>参考资料:<br><a href="https://www.baidu.com/">baidu</a></p><hr>]]></content>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;因&quot;&gt;&lt;a href=&quot;#因&quot; class=&quot;headerlink&quot; title=&quot;因&quot;&gt;&lt;/a&gt;因&lt;/h3&gt;&lt;p&gt;以前下载音乐的时候总会有各种音质选项，不同音质选项之间体积差距很大。&lt;br&gt;像我这种怀旧的人又舍不得删掉以前听的歌，所以各种以前的歌就总是一直留在电脑里。&lt;br&gt;印象中一般下载时我都会选择</summary>
-    
-    
-    
-    <category term="知识" scheme="https://zhangyisui.top/categories/%E7%9F%A5%E8%AF%86/"/>
-    
-    
-    <category term="音乐" scheme="https://zhangyisui.top/tags/%E9%9F%B3%E4%B9%90/"/>
-    
-    <category term="知识" scheme="https://zhangyisui.top/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>凡浪</title>
     <link href="https://zhangyisui.top/posts/3848569/"/>
     <id>https://zhangyisui.top/posts/3848569/</id>
