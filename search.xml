@@ -3,9 +3,7 @@
   <entry>
     <title>Test</title>
     <url>/posts/d87f7e0c/</url>
-    <content><![CDATA[<h2 id="It-just-a-test-for-the-first-run"><a href="#It-just-a-test-for-the-first-run" class="headerlink" title="It just a test for the first run"></a>It just a test for the first run</h2><span id="more"></span>
-
-<p><a href="https://zhangyisui.top/">测试链接</a></p>
+    <content><![CDATA[<h2 id="It-just-a-test-for-the-first-run"><a href="#It-just-a-test-for-the-first-run" class="headerlink" title="It just a test for the first run"></a>It just a test for the first run<span id="more"></span></h2><p><a href="https://zhangyisui.top/">测试链接</a></p>
 <p><img src="https://ae01.alicdn.com/kf/Udcdc3a875f984075a89e53abef0b1707c.jpg" alt="测试图片"></p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line">测试代码;</span><br></pre></td></tr></table></figure>
 
@@ -17,6 +15,21 @@
       <tags>
         <tag>test</tag>
         <tag>test2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>假装自己很懂电脑</title>
+    <url>/posts/44a71f28/</url>
+    <content><![CDATA[<p>太久没有更新了，本来这个周末很想更新，终究还是误了时辰<br>无奈无奈<br>遂熬夜更新一篇<span id="more"></span><br>内容简单<br>其实在不懂的人面前能假装自己懂很多东西<br>而且有太多人喜欢假装<br>实际上<br>我更喜欢拆穿他们<br>但这个<br>至少有一点点技术含量<br>很简单</p>
+<hr>
+<p>win+r(启动快捷键)<br>cmd(输入cmd回车，打开命令提示符)<br>color 0a(十六进制代码修改颜色)<br>dir/s(列出根目录下所有文件)<br>视觉效果就是代码乱飞<br>至少能飞个几分钟<br>用法其实很多<br>在此不多赘述</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -93,20 +106,6 @@
       </tags>
   </entry>
   <entry>
-    <title>图书资源网站总集</title>
-    <url>/posts/b35ed62e/</url>
-    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p>
-<p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>
-]]></content>
-      <categories>
-        <category>资源</category>
-      </categories>
-      <tags>
-        <tag>资源</tag>
-        <tag>书</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何跳过青年大学习</title>
     <url>/posts/22179bc6/</url>
     <content><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 <a href="http://debugmm.qq.com/?forcex5=true">debugmm.qq.com/?forcex5=true</a> 开启vConsole调试功能<span id="more"></span>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）<br>图↓</p>
@@ -126,16 +125,17 @@
       </tags>
   </entry>
   <entry>
-    <title>水房内卷的联想</title>
-    <url>/posts/c76f13ad/</url>
-    <content><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>
+    <title>图书资源网站总集</title>
+    <url>/posts/b35ed62e/</url>
+    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p>
+<p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>资源</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
-        <tag>吐槽</tag>
+        <tag>资源</tag>
+        <tag>书</tag>
       </tags>
   </entry>
   <entry>
@@ -157,6 +157,19 @@
         <tag>随笔</tag>
         <tag>社论</tag>
         <tag>失眠单元</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>水房内卷的联想</title>
+    <url>/posts/c76f13ad/</url>
+    <content><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>吐槽</tag>
       </tags>
   </entry>
 </search>
