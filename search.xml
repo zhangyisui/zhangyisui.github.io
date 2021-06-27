@@ -33,34 +33,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<hr>
-<p>声明: 这是hexo自动生成的测试页面，与版权什么的无关，因个人喜好不想删而已，如果是因为好奇点进来的话，很可惜你浪费了十五秒，建议好好学习一下英语</p>
-]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>你的武林</title>
     <url>/posts/9d23a557/</url>
     <content><![CDATA[<h2 id="你的武林"><a href="#你的武林" class="headerlink" title="你的武林"></a>你的武林</h2><p>你万念俱灰，神色暗淡，未存生望，将死求安<br>却闻身后笛声轻起，百鸟皆还<br>你转身<br>看见柳笛弯弯<br>万般云霞皆暗淡<span id="more"></span><br>她轻叹，笛声戛然<br>你迈步，她抬首看<br>你拱手，她笑嫣然<br>你张口，说姑娘有何烦恼在下可否耳闻<br>在下虽已万念俱灰仍愿为姑娘碎骨粉身<br>她说既已叹息何必提故事沉沉<br>徒增悲意不如去自寻本真<br>鸟鸣悲婉<br>你也随之俯首轻叹<br>前行，空有孤寒，后退，四方皆岸<br>再抬首，她已起身。<br>你踌躇，你不决，终究向她喊到<br>明日可否再度相见？<br>她回身一笑，穿透春光灿烂，如月映照眼前。<br>如此你便明了了。<br>你不知她是谁<br>她不问你何归<br>时光细碎<br>如画唯美<br>同游天下<br>江湖忽危<br>你看见诏书。<br>败魔教者，封赏九族。<br>败魔教仇恨即无，成大事光复九族<br>最重要的<br>她的微笑，安定，或者说幸福<br>你很强，所以你拔剑，昂扬<br>为了让她，笑的安详<br>她只是笑<br>她说<br>无论如何<br>不要把我忘掉<br>你告诉她<br>鼠辈<br>不能伤她分毫<br>她步步跟随毫无怨言<br>你事事神勇护她周全<br>不觉之间宫殿已近在眼前<br>她已离去你放心面对凶险<br>你踏入<br>却是空城<br>你迈步<br>古琴铮铮<br>似有哀声<br>声源近在眼前<br>你走近，却看见她的容颜<br>月光，千年百年，未曾有变<br>春色，一朝一夕，还似从前<br>故事长长，如漏刻之沙，点点滴滴<br>而今，已是尽头<br>你抬首，你转身，你拔剑，又为了何人<br>两两相望<br>惟余轻笑<br>退无可退<br>身后已箭冲云霄<br>你懂了<br>但晚了<br>你一袭白衣剑尖染血，踌躇再三也未将柳笛忘掉。<br>她孑然一身仍带轻笑，笑你不懂她的情调。<br>你想起它的叹息<br>你想起小时候遇见过一个女孩<br>你很快就忘了<br>这就是你的武林</p>
@@ -93,6 +65,34 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<hr>
+<p>声明: 这是hexo自动生成的测试页面，与版权什么的无关，因个人喜好不想删而已，如果是因为好奇点进来的话，很可惜你浪费了十五秒，建议好好学习一下英语</p>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于几个电影的一些感想 2021.04</title>
     <url>/posts/90bf77db/</url>
     <content><![CDATA[<h2 id="关于叶问4、新神榜、三体和阿凡达"><a href="#关于叶问4、新神榜、三体和阿凡达" class="headerlink" title="关于叶问4、新神榜、三体和阿凡达"></a>关于叶问4、新神榜、三体和阿凡达</h2><p>现在是2021年四月九日<br>我刚刚看完了叶问四<br>说实话我现在很年轻，但是总有一种自己已经老了的感觉<br>看电影或者文章总会不自觉的思考人生还有各种乱七八糟的其他问题<span id="more"></span><br>刚刚看完了叶问4，作为一部功夫片，其实本来没必要在意太多细节<br>但叶问对我来说不同，我这个人很奇怪，也许是因为年纪小，我只做自己喜欢的<br>电影我也只看自己感兴趣的<br>叶问对我来说，至少截至现在，是我认为最好的功夫片<br>作为标杆，作为范例存在<br>而且它也的确存在值得称赞的细节<br>种种贴近真实的描写的确让他有了更多的思想寄托<br>而这一部甚至关底boss都更换为了更真实的一个美军军官<br>没有神化到拯救世界的地步，叶问的死因也很普通，当然，是为了真实<br>正是这种真实让我想写下这篇文章<br>片子剧情并不复杂，几条看似分散情节的实际上最终都归到叶问一个人身上<br>我想说的就是片中的剧情问题<br>剧情表现思想<br>提前声明片中并没有任何思想错误<br>只是叶问所做出的改变并不能说是全面（想看懂下面的话需要已经看过这部电影<br>剧中并没有提到之后的万会长的女儿在学校里的生活，实话实说可能编剧也不会写<br>我当然也不会<br>而美军的军官，这种情况下，只能说是被使用武力说服，<br>而真正的人性<br>在确认叶问死后，甚至不需要，只需要确认他离开后，就可以马上翻脸，这只是针对剧中出现的军官来说<br>而其他军官，翻脸的成本更低，毕竟一个死人，又不会起来打我<br>“如果他还活着，肯定不是我的对手”<br>这就是人性，移民局依然存在，仇恨依然存在，斗争就不会停止<br>这就是本能<br>大概一周前，我在电影院看过了阿凡达<br>我以前并没有看过这部电影，但它的确很有名<br>导演的确讲好了一个故事<br>但只能说是一个童话<br>宇宙不是童话世界<br>可能人类将来扮演的反而是土著的角色，而另一个幻影骑士会不会出现不得而知<br>在这方面我反而认同大刘那套黑暗森林法则<br>宇宙文明和国与国人与人是一样的<br>要么保持距离<br>要么保持战争<br>距离感永远很重要<br>这就是真实<br>这就是本能<br>叶问是一个人，只能改变一点点东西<br>叶问会死<br>他所做出的改变也会消失<br>可能我所想的太过阴暗，不过我的确就是这样的人，揣测，分析，置身事外，讨厌麻烦，抱怨，厌世<br>但这与这篇文章无关<br>我并不感觉自己有什么不对<br>毕竟人类的确谈不上多么光明正大的物种<br>回到改变这个问题<br>如果改变没有意义<br>那么，我们怎么做？<br>很巧，我昨天刚刚看过另一部电影<br>新神榜：哪吒传说<br>哪吒传说中却恰恰提到了这个问题<br>这也是一部很好的电影，有剧情，有立意<br>作为一部动漫神话英雄电影可以说是很高的水准<br>甚至足以发展出一整个神话宇宙<br>整个系列只要保持水平，甚至比这部片子稍低一点，就完全有望创造复仇者联盟一样的超级IP<br>片中说<br>“也许是什么都改变不了，就像医院里的病人，不管治不治疗，人都终有一死，可如果病治好了，他就会在这个世上多些时间，我相信这些时间对他们来说，不会是毫无用处的，对他们的亲人朋友也不是。”<br>我已经出生了六千七百多天，在这些天里我怀疑，我犹豫，多数时候活着，但食之无味，饮之无觉，儿时的快乐消逝之后，长大的烦恼就随之而来<br>儿时的我深夜时躺在床上，想到总有一天父亲母亲早晚有一天会离我而去，而我有一天也会迈进坟墓，不自觉的流下泪来<br>那时我的理想或者说梦就是我的家人和我能永远的在一起生活<br>而后来就再不存在理想这种东西了，没有什么是永存的<br>而我欠其他人的却永远都还不清，于是我的目标变为了还债<br>而后就是如今，人，就是人，只是人，永远是人<br>而我，某些时候已经不是所谓的人了<br>我想，那些自杀的文人或许大多是因为看透了生活的无可救药和疯狂吧<br>而我的疯狂绝非可以用一首诗医治的那种</p>
@@ -103,20 +103,6 @@
       <tags>
         <tag>随笔</tag>
         <tag>影评</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>图书资源网站总集</title>
-    <url>/posts/b35ed62e/</url>
-    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p>
-<p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>
-]]></content>
-      <categories>
-        <category>资源</category>
-      </categories>
-      <tags>
-        <tag>资源</tag>
-        <tag>书</tag>
       </tags>
   </entry>
   <entry>
@@ -131,6 +117,20 @@
       <tags>
         <tag>影评</tag>
         <tag>批评</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图书资源网站总集</title>
+    <url>/posts/b35ed62e/</url>
+    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p>
+<p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>
+]]></content>
+      <categories>
+        <category>资源</category>
+      </categories>
+      <tags>
+        <tag>资源</tag>
+        <tag>书</tag>
       </tags>
   </entry>
   <entry>
@@ -163,6 +163,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>水房内卷的联想</title>
+    <url>/posts/c76f13ad/</url>
+    <content><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>吐槽</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>有礼貌的抱团喧闹者</title>
     <url>/posts/e3e2ebf2/</url>
     <content><![CDATA[<p>本来是准备睡觉的<br>怪就怪我去了趟厕所<br>连更太多不在我的计划之内<br>不过这个本来就是即兴项目<br>欢迎来到失眠单元<span id="more"></span></p>
@@ -175,19 +188,6 @@
       <tags>
         <tag>杂谈</tag>
         <tag>失眠单元</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>水房内卷的联想</title>
-    <url>/posts/c76f13ad/</url>
-    <content><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>吐槽</tag>
       </tags>
   </entry>
   <entry>
