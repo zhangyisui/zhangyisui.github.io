@@ -87,6 +87,23 @@
   </entry>
   
   <entry>
+    <title>优雅的自动刷网课</title>
+    <link href="https://zhangyisui.top/posts/e3d61257/"/>
+    <id>https://zhangyisui.top/posts/e3d61257/</id>
+    <published>2021-05-31T15:14:34.897Z</published>
+    <updated>2021-06-27T10:44:28.833Z</updated>
+    
+    <content type="html"><![CDATA[<p>临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养<br>因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱<br>而且质量参差不齐，有时练习题的答案都是脚本的废料<br>因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了<span id="more"></span></p><h2 id="part-one"><a href="#part-one" class="headerlink" title="part one"></a>part one</h2><p>第一步<br>安装油猴，有一定基础的话应该听说过，明白的人大概不会看这篇教学，所以假设你是个小白<br>油猴即Tampermonkey，是一款免费开源且强悍的浏览器扩展，本身是一个脚本管理器<br>如果你动手能力够强，靠这个关键词和百度就够了，通过油猴刷课只能说是诸多作用中的一个，还有更多作用等你挖掘<br>当然，你是个小白<br>市面上常见的浏览器大概有以下几种:<br>1、Chrome<br>2、QQ浏览器<br>3、Microsoft Edge（windows自带）<br>4、Safari（mac自带）<br>5、360浏览器<br>6、UC浏览器<br>7、Firefox（火狐）<br>8、opera</p><p>建议首先在自带的扩展商店里寻找（chrome可能需要科学上网），直接搜索Tampermonkey安装即可<br>如果插件商店没有，建议直接到<a href="https://www.tampermonkey.net/">油猴官网</a>下载（可能也需要科学上网，不过在我撰文时是可以正常访问的）<br>基本所有浏览器都能通过以上方法完成安装 （ps：下载时记得根据自己浏览器版本选择相应的插件版本）下载之后一路确定即可<br>这样最难的一步就结束了</p><h2 id="part-two"><a href="#part-two" class="headerlink" title="part two"></a>part two</h2><p>第二步就简单得多,只要进入油猴的网上应用店安装脚本就可以了。<br>进入网上应用店只需要点击浏览器上的油猴图标（如下图），<br><img src="https://i0.hdslb.com/bfs/album/cd78027a9670c15a50073c67383aebe89c96453b.png" alt="油猴图标"><br>点击获取新脚本，然后进入GreasyFork即可，当然也可以直接点击<a href="https://greasyfork.org/zh-CN">这里</a><br>之后就更简单了<br>直接搜索超星或者学习通关键字然后选择一个自己喜欢的脚本安装即可<br>而后打开课程界面，脚本一般就会自动开始刷课了，只要一直挂着就好</p><h2 id="part-three"><a href="#part-three" class="headerlink" title="part three"></a>part three</h2><p>相应的还有一个进阶的小部分<br>因为油猴作为一个脚本管理器是可以编辑脚本的<br>在编辑后便可以实现视频秒过功能，加快刷课进度<br>不过一般情况下不推荐使用，秒过可能导致不良记录<br>在这里我以我在用的脚本为例示范<br>首先进入脚本管理页面<br><img src="https://i0.hdslb.com/bfs/album/43189d9031471d9f3b3027040fdbba5858ae95ac.png" alt="脚本管理页示意"><br>而后点击相应的脚本编辑<br><img src="https://graph.baidu.com/resource/126c10ceb5f52fc3cc5a001624790425.jpg" alt="编辑示意"><br>进入编辑页面<br>优秀的作者肯定会留下注释<br>比如这样<br><img src="https://i0.hdslb.com/bfs/album/bd47d169c09bcb19820e2f1c60433a4785095049.png" alt="编辑页示意"><br>只要按说明修改相应参数即可<br>在这里我将rate修改为0，秒过功能便被开启<br>需要注意的是，开关脚本以及修改脚本功能，都需要刷新网页之后才能生效<br>over</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养&lt;br&gt;因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱&lt;br&gt;而且质量参差不齐，有时练习题的答案都是脚本的废料&lt;br&gt;因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>水房内卷的联想</title>
     <link href="https://zhangyisui.top/posts/c76f13ad/"/>
     <id>https://zhangyisui.top/posts/c76f13ad/</id>
