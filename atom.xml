@@ -6,7 +6,7 @@
   <link href="https://zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://zhangyisui.top/"/>
-  <updated>2021-09-03T04:02:40.885Z</updated>
+  <updated>2021-09-03T04:06:37.125Z</updated>
   <id>https://zhangyisui.top/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="https://zhangyisui.top/posts/67785cd5/"/>
     <id>https://zhangyisui.top/posts/67785cd5/</id>
     <published>2021-09-01T13:23:50.722Z</published>
-    <updated>2021-09-03T04:02:40.885Z</updated>
+    <updated>2021-09-03T04:06:37.125Z</updated>
     
-    <content type="html"><![CDATA[<p>[百度文库文档的下载](## 百度文库下载)/[商品的历史价格查询](## 商品的历史价格查询)/[GitHub源码加速下载](## GitHub源码加速下载)<span id="more"></span><br>以下是简便高效易理解的途径</p><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>在相应文章页面网址框中在网址后面加vvv后直接回车<br>如<a href="https://wenku.baidu.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg">https://wenku.baidu.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg</a><br>改为<a href="https://wenku.baiduvvv.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg">https://wenku.baiduvvv.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg</a><br>之后会进入解析页面，直接点击下载即可<br>如提示需要关注公众号，关注获取暗号取关即可</p><h2 id="商品的历史价格查询"><a href="#商品的历史价格查询" class="headerlink" title="商品的历史价格查询"></a>商品的历史价格查询</h2><p>打开商品页面在https前加上wn.run/回车即可<br>如<a href="https://item.jd.com/13310468.html">https://item.jd.com/13310468.html</a><br>改为<a href="wn.run/https://item.jd.com/13310468.html">wn.run/https://item.jd.com/13310468.html</a><br>之后会进入万能命令页面，点击查询历史价格即可<br>此方法可应用于不同的多种网站<br>包括解析视频<br>查找油猴脚本等</p><h2 id="GitHub源码加速下载"><a href="#GitHub源码加速下载" class="headerlink" title="GitHub源码加速下载"></a>GitHub源码加速下载</h2><p>直接在需要的下载页面在github后面加1s即可直接打开在线vscode页面<br>下载即可<br>懂GitHub的人应该不需要教程<br>信息在这 自己探索</p><h2 id="附言"><a href="#附言" class="headerlink" title="附言"></a>附言</h2><p>以上所有问题都可以通过脚本解决<br>可以参考之前的<a href="/posts/e3d61257/">教程</a>安装油猴后自行探索<br>此外，网站具有时效性，失效只在一瞬间<br>404是解决不了的问题，且用且珍惜</p>]]></content>
+    <content type="html"><![CDATA[<p>百度文库文档的下载/商品的历史价格查询/GitHub源码加速下载<span id="more"></span><br>以下是简便高效易理解的途径</p><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>在相应文章页面网址框中在网址后面加vvv后直接回车<br>如<a href="https://wenku.baidu.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg">https://wenku.baidu.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg</a><br>改为<a href="https://wenku.baiduvvv.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg">https://wenku.baiduvvv.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg</a><br>之后会进入解析页面，直接点击下载即可<br>如提示需要关注公众号，关注获取暗号取关即可</p><h2 id="商品的历史价格查询"><a href="#商品的历史价格查询" class="headerlink" title="商品的历史价格查询"></a>商品的历史价格查询</h2><p>打开商品页面在https前加上wn.run/回车即可<br>如<a href="https://item.jd.com/13310468.html">https://item.jd.com/13310468.html</a><br>改为<a href="http://wn.run/https://item.jd.com/13310468.html">wn.run/https://item.jd.com/13310468.html</a><br>之后会进入万能命令页面，点击查询历史价格即可<br>此方法可应用于不同的多种网站<br>包括解析视频<br>查找油猴脚本等</p><h2 id="GitHub源码加速下载"><a href="#GitHub源码加速下载" class="headerlink" title="GitHub源码加速下载"></a>GitHub源码加速下载</h2><p>直接在需要的下载页面在github后面加1s即可直接打开在线vscode页面<br>下载即可<br>懂GitHub的人应该不需要教程<br>信息在这 自己探索</p><h2 id="附言"><a href="#附言" class="headerlink" title="附言"></a>附言</h2><p>以上所有问题都可以通过脚本解决<br>可以参考之前的<a href="/posts/e3d61257/">教程</a>安装油猴后自行探索<br>此外，网站具有时效性，失效只在一瞬间<br>404是解决不了的问题，且用且珍惜</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;[百度文库文档的下载](## 百度文库下载)/[商品的历史价格查询](## 商品的历史价格查询)/[GitHub源码加速下载](## GitHub源码加速下载)</summary>
+    <summary type="html">&lt;p&gt;百度文库文档的下载/商品的历史价格查询/GitHub源码加速下载</summary>
     
     
     
