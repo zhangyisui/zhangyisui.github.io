@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>作业实例页面</title>
+    <style>
+
+      body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        background-color: #f4f4f4;
+      }
+
+      .news {
+        width: 370px;
+        padding: 10px;
+        margin: 20px;
+      }
+
+      .news h3 {
+        color: #2e6ca0;
+        position: relative;
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-top: 8px;
+      }
+
+      .news h3::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 3px;
+        width: 100%;
+        background: linear-gradient(
+          90deg,
+          #00438a 30%,
+          #9e9e9e 30%
+        ); /* 渐变横线 */
+      }
+
+      .news ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 10px 0 0 0;
+      }
+
+      .news li {
+        margin-bottom: 8px;
+        line-height: 1.5;
+        font-size: 14px;
+        position: relative; /* 定位 */
+        padding-left: 20px; /* 图片留空 */
+      }
+
+      .news li::before {
+        content: "";
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background-image: url("zuoyeimg/squ.jpg");
+        background-size: cover;
+        position: absolute;
+        left: 0px;
+        top: 30%;
+      }
+
+      .erti {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px; /* 图片间隙 */
+        width: 80%;
+        max-width: 1200px;
+        margin-top: 50px;
+      }
+
+      .erti img {
+        width: 100%;
+        height: auto;
+        object-fit: cover; /* 图片裁剪 */
+      }
+
+      /* 单独调整 */
+      .erti .da1 {
+        grid-column: span 2; /* 横跨两列 */
+        grid-row: span 2; /* 横跨两行 */
+      }
+      .erti .shu2 {
+        grid-row: span 2;
+      }
+
+      .santi {
+        display: flex;
+        width: 80%;
+        max-width: 1200px;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 30px;
+      }
+
+      .kapian {
+        width: 200px;
+        background-color: #fff;
+        border: 1px solid #eaeaea;
+        padding: 20px;
+        text-align: center;
+      }
+
+      .kapian img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+      }
+      
+      .kapiantu {
+        position: relative;
+      }
+
+      .remaizhijiang {
+        position: absolute;
+        top: -7px;
+        left: 0px;
+        width: 40px !important;
+      }
+
+      .zi {
+        margin-top: 10px;
+      }
+
+      .zi h3 {
+        font-size: 16px;
+        color: #333;
+        margin: 5px 0;
+      }
+
+      .zi p {
+        font-size: 14px;
+        color: #888;
+        margin: 5px 0;
+      }
+
+      .jia {
+        color: red;
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 10px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="news">
+      <h3>地方新闻联播</h3>
+      <ul>
+        <li>今年仅九省市上调最低工资标准 步伐明显放慢</li>
+        <li>2016年基本实现医保全国联网 取得两个重大突破</li>
+        <li>山东今晨发霾黄色预警 部分地区将遭跨年重污染天气</li>
+        <li>沪昆高铁全线贯通</li>
+        <li>七部委严控京冀交界地区房价 联合出手遏制炒房</li>
+        <li>明年2月起超豪华小车“税负落地” 购高档房成本更高</li>
+        <li>郑州市政府再取消35项重复证明 市民办事将更方便</li>
+      </ul>
+    </div>
+    <div class="erti">
+      <img src="zuoyeimg/1.jpg" alt="1" class="da1" />
+      <img src="zuoyeimg/2.jpg" alt="2" />
+      <img src="zuoyeimg/3.jpg" alt="3" />
+      <img src="zuoyeimg/4.jpg" alt="4" />
+      <img src="zuoyeimg/8.jpg" alt="5" class="shu2" />
+      <img src="zuoyeimg/5.png" alt="6" />
+      <img src="zuoyeimg/6.jpg" alt="7" />
+      <img src="zuoyeimg/7.jpg" alt="8" />
+    </div>
+    <div class="santi">
+      <div class="kapian">
+        <div class="kapiantu">
+          <img class="remaizhijiang" src="zuoyeimg/9.png" alt="热卖" />
+          <img src="zuoyeimg/10.jpg" alt="商品1" />
+        </div>
+        <div class="zi">
+          <h3>荣耀畅玩5</h3>
+          <p>惊艳小屏</p>
+          <div class="jia">¥ 599</div>
+        </div>
+      </div>
+
+      <div class="kapian">
+        <div class="kapiantu">
+          <img class="remaizhijiang" src="zuoyeimg/11.png" alt="直降" />
+          <img src="zuoyeimg/12.jpg" alt="商品2" />
+        </div>
+        <div class="zi">
+          <h3>荣耀畅玩5C</h3>
+          <p>真芯长续航</p>
+          <div class="jia">¥ 1099</div>
+        </div>
+      </div>
+
+      <div class="kapian">
+        <div class="kapiantu">
+          <img src="zuoyeimg/13.jpg" alt="商品3" />
+        </div>
+        <div class="zi">
+          <h3>华为畅享5S</h3>
+          <p>轻薄金属机身</p>
+          <div class="jia">¥ 1099</div>
+        </div>
+      </div>
+    </div>
+
+    <h1 style="
+        font-size: 30px; 
+        color: #31062d; 
+        text-shadow: 
+            0 0 10px rgb(64, 8, 65), 
+            0 0 20px rgb(64, 8, 65), 
+            0 0 30px rgb(64, 8, 65), 
+            0 0 40px rgb(64, 8, 65), 
+            0 0 50px rgb(64, 8, 65), 
+            0 0 60px rgb(64, 8, 65), 
+            0 0 70px rgb(64, 8, 65);
+        font-family: 'Arial', sans-serif; 
+        margin-bottom: 80px;
+
+    ">
+        24201012202
+    </h1>
+
+  </body>
+</html>
